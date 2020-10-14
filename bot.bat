@@ -2,4 +2,4 @@
 @color f
 python bot.py
 
-ping 131.196.202.12 -n 30 > nul
+ping 27.36.118.2:3128 -n 30 > nul
